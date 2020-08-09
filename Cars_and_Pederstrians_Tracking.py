@@ -8,8 +8,8 @@ import cv2
 
 
 # Our Image
-video = cv2.VideoCapture("video1.avi")
-#video = cv2.VideoCapture("PedestriansCompilation.mp4")
+#video = cv2.VideoCapture("video1.avi")
+video = cv2.VideoCapture("PedestriansCompilation.mp4")
 
 
 # Pre-trained Car classifier
